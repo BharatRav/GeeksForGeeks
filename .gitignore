@@ -3,8 +3,6 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-.gitignore
-GeeksForGeeksSolutions.iml
 
 ### Eclipse ###
 .apt_generated
