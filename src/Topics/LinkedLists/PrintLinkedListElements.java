@@ -1,14 +1,15 @@
 package Topics.LinkedLists;
-class Node {
-    int data;
-    Node next;
 
-    Node(int d) {
-        data = d;
-        next = null;
-    }
-}
 public class PrintLinkedListElements {
+     static class Node {
+        int data;
+        Node next;
+
+        Node(int d) {
+            data = d;
+            next = null;
+        }
+    }
 
     void display(Node head)
     {
