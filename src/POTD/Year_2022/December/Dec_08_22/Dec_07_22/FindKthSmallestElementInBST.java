@@ -1,4 +1,4 @@
-package POTD.Dec_07_22;
+package POTD.Year_2022.December.Dec_08_22.Dec_07_22;
 
 public class FindKthSmallestElementInBST {
       static class Node {

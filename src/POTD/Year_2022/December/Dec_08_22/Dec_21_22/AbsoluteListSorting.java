@@ -1,4 +1,4 @@
-package POTD.Dec_21_22;
+package POTD.Year_2022.December.Dec_08_22.Dec_21_22;
 
 public class AbsoluteListSorting {
     class Node

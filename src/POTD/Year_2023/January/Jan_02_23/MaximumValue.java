@@ -1,9 +1,8 @@
-package POTD.Year_2023.Jan_02_23;
+package POTD.Year_2023.January.Jan_02_23;
 
 
 import java.util.ArrayList;
 import java.util.LinkedList;
-import java.util.List;
 import java.util.Queue;
 
 public class MaximumValue {

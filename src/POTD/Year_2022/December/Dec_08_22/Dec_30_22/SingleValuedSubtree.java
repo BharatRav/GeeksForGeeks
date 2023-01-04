@@ -1,4 +1,4 @@
-package POTD.Dec_30_22;
+package POTD.Year_2022.December.Dec_08_22.Dec_30_22;
 
 public class SingleValuedSubtree {
     class Node{

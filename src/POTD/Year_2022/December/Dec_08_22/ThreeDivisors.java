@@ -1,4 +1,4 @@
-package POTD.Dec_08_22;
+package POTD.Year_2022.December.Dec_08_22;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package POTD.Dec_11_22;
+package POTD.Year_2022.December.Dec_08_22.Dec_11_22;
 
 public class ArrayPairSumDivisibilityProblem {
     public boolean canPair(int[] nums, int k) {

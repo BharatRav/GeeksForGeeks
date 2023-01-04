@@ -1,4 +1,4 @@
-package POTD.Dec_20_22;
+package POTD.Year_2022.December.Dec_08_22.Dec_20_22;
 
 public class ADiffereceOfValuesAndIndexes {
     // Function for finding maximum and value pair
