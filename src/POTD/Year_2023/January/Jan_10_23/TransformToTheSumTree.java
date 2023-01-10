@@ -1,5 +1,8 @@
 package POTD.Year_2023.January.Jan_10_23;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class TransformToTheSumTree {
     class Node {
         int data;
@@ -33,7 +36,6 @@ public class TransformToTheSumTree {
             int rightSum = toSumHelperTree(root.right);
 
             root.data = leftSum+rightSum;
-
             return data+root.data;
         }
 }
