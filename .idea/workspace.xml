@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="542cc682-8f0a-425f-a7aa-bcae39e03ca1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POTD/Dec_07_22/FindKthSmallestElementInBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POTD/Year_2022/December/Dec_08_22/Dec_07_22/FindKthSmallestElementInBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POTD/Dec_08_22/ThreeDivisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POTD/Year_2022/December/Dec_08_22/ThreeDivisors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POTD/Dec_09_22/BlackAndWhite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POTD/Year_2022/December/Dec_08_22/Dec_09_22/BlackAndWhite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POTD/Dec_10_22/BuildTheSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POTD/Year_2022/December/Dec_08_22/Dec_10_22/BuildTheSmallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POTD/Dec_11_22/ArrayPairSumDivisibilityProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POTD/Year_2022/December/Dec_08_22/Dec_11_22/ArrayPairSumDivisibilityProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POTD/Dec_20_22/ADiffereceOfValuesAndIndexes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POTD/Year_2022/December/Dec_08_22/Dec_20_22/ADiffereceOfValuesAndIndexes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POTD/Dec_21_22/AbsoluteListSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POTD/Year_2022/December/Dec_08_22/Dec_21_22/AbsoluteListSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POTD/Dec_27_22/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POTD/Year_2022/December/Dec_08_22/Dec_27_22/ContainerWithMostWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POTD/Dec_30_22/SingleValuedSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POTD/Year_2022/December/Dec_08_22/Dec_30_22/SingleValuedSubtree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POTD/Year_2023/Jan_02_23/MaximumValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POTD/Year_2023/January/Jan_02_23/MaximumValue.java" afterDir="false" />
-    </list>
+    <list default="true" id="542cc682-8f0a-425f-a7aa-bcae39e03ca1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
