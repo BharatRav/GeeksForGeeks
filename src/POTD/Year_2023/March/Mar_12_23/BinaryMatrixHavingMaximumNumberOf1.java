@@ -1,6 +1,6 @@
 package POTD.Year_2023.March.Mar_12_23;
 
-public class BinaryMatrixHavingMaximumNumberO1 {
+public class BinaryMatrixHavingMaximumNumberOf1 {
     public int[] findMaxRow(int mat[][], int N) {
         // code here
         int rowNumber=0,maxCount=0;
