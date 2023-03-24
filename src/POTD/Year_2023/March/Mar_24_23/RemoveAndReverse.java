@@ -1,5 +1,8 @@
 package POTD.Year_2023.March.Mar_24_23;
 
+import java.util.HashMap;
+import java.util.HashSet;
+
 public class RemoveAndReverse {
     String removeReverse(String S) {
         HashMap<Character, Integer> map = new HashMap<>();
